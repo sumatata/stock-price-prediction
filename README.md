@@ -1,4 +1,4 @@
-# Time Series Forecasting for Stock Price Prediction
+# Stock Price Prediction Using Financial and Market Indicators
 
 This project analyzes S&P 500 stock data to develop regression-based time series forecasting models. The goal is to generate model-driven insights that support data-informed investment decisions.
 
